@@ -16,7 +16,7 @@ package analysis
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/http"
 	"net/url"
 	"os"
